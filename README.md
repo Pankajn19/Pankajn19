@@ -9,6 +9,12 @@
 </p>
 
 <h3 align="left">Github Stats:</h3>
+
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pankajn19&theme=highcontrast)](https://git.io/streak-stats)
 
