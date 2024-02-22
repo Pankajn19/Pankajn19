@@ -11,6 +11,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/pn1909/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Pankajn19/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/lazy_wallflower" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pn1909" height="30" width="40" /></a>
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=lazy_wallflower)](https://codeforces.com/profile/lazy_wallflower)
 </p>
 
 <h3 align="left">Github Stats:</h3>
