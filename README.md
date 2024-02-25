@@ -3,9 +3,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Pankajn19&label=Profile%20views&color=0e75b6&style=flat" alt="Pankajn19" /> </p>
 
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
+
 
 <h3 align="left">Connect with me🤝:</h3>
 <p align="left">
