@@ -1,4 +1,4 @@
-<h1 align="center">Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height="29px">, I'm Pankaj 💁‍♂️</h1>
+<h1 align="center">Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height="29px">, I'm Pankaj </h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Pankajn19&label=Profile%20views&color=0e75b6&style=flat" alt="Pankajn19" /> </p>
 
