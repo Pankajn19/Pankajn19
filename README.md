@@ -16,5 +16,5 @@
 
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=lazy_wallflower)](https://codeforces.com/profile/lazy_wallflower)
 
-[![Pankaj's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=lazy_wallflower&theme=Dark)](https://github.com/lazy_wallflower/leetcode-stats)
+![](https://leetcard.jacoblin.cool/lazy_wallflower?ext=contest)
 
