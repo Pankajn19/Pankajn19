@@ -2,8 +2,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Pankajn19&label=Profile%20views&color=0e75b6&style=flat" alt="Pankajn19" /> </p>
 
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+  <a href="https://1999azzar.github.io/1999AZZAR/">
+    <img src="/resources/grid-snake.svg" alt="snake">
+  </a>
 </div>
 <h3 align="left">Github Stats:</h3>
   
