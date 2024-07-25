@@ -1,11 +1,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Pankajn19&label=Profile%20views&color=0e75b6&style=flat" alt="Pankajn19" /> </p>
 
-<div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
-    <img src="/resources/grid-snake.svg" alt="snake">
-  </a>
-</div>
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
 <h3 align="left">Github Stats:</h3>
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pankajn19&theme=highcontrast)](https://git.io/streak-stats)
