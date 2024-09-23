@@ -1,9 +1,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Pankajn19&label=Profile%20views&color=0e75b6&style=flat" alt="Pankajn19" /> </p>
 
-<p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
-</p>
 
 <h3 align="left">Github Stats:</h3>
   
